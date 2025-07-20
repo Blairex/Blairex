@@ -1,9 +1,10 @@
-# 📌 Jerry Blair
+### I'm Jerry Blair
 
 🎓 BCA Student – 5th Semester  
 🧠 Learning through real-world projects and experiments  
 🧩 I build things, break them, and figure out how they work  
 🎯 On the journey to becoming a full-stack software developer
+
 ---
 
 ## 📊 GitHub Stats
