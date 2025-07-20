@@ -1,6 +1,6 @@
 ### I'm Jerry Blair
 
-# 💫 About Me:
+### 💫 About Me:
 BCA Student – 5th Semester  <br>Learning through real-world projects and experiments  <br>I build things, break them, and figure out how they work  <br>On the journey to becoming a full-stack software developer
 
 
