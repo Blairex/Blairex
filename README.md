@@ -1,12 +1,19 @@
-### Hey there! I'm Jerry Blair
+# 📌 Jerry Blair
 
-🎓 BCA Student | Currently in 5th Semester  
-💻 Learning by building and breaking things  
-🎯 Future Goal: Become a full-stack software developer  
-🧠 Trying to improve daily through hands-on practice
-
+🎓 BCA Student – 5th Semester  
+🧠 Learning through real-world projects and experiments  
+🧩 I build things, break them, and figure out how they work  
+🎯 On the journey to becoming a full-stack software developer
 ---
 
-## 💼 Tech Stack
+## 📊 GitHub Stats
 
-<!-- Feel free to edit this part -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blairex&show_icons=true&theme=radical" alt="Jerry's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blairex&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blairex&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
