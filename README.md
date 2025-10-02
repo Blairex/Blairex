@@ -1,4 +1,4 @@
-# Hi, I'm Blairex 🐱‍👤  
+## Hi, I'm Blairex
 
 Welcome to my profile! 🌍  
 Here you’ll find my journey as a tech enthusiast who loves exploring Linux, coding, and everything in between.  
