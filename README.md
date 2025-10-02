@@ -14,7 +14,6 @@ Here, you’ll find my journey in tech, my experiments, and the small projects I
 - 🌱 Constantly learning and trying out new technologies  
 - 🤝 Enjoy exploring open source and sharing what I learn  
 
----
 
 ### 📫 Connect with me
 
