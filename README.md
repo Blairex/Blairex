@@ -4,6 +4,7 @@
   
 Here, you’ll find my journey in tech, my experiments, and the small projects I build as I explore different areas of programming. I love sharing what I learn along the way and hope my work can be useful or inspiring to others who are curious about technology.
 
+![Coding GIF](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
 ---
 
