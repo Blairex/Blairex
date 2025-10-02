@@ -22,7 +22,7 @@ I’m always happy to chat about tech, Linux, open source, or programming in gen
 - 🐧 Strong believer in Linux and FOSS  
 - 📖 Love exploring how technology works under the hood  
 - 💬 Open to discussions, collaboration, and helping others
-
+- 📧 Feel free to reach out via email: [jerryblair0927@gmail.com](mailto:jerryblair0927@gmail.com)
 
 
 #### 💻Languages, Tools & Tech I’m Exploring:
