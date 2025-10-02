@@ -6,6 +6,22 @@ Here, you’ll find my journey in tech, my experiments, and the small projects I
 
 ![Coding GIF](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
+🐧 **A little about me...**
+
+- 💻 Passionate about Linux and system customization  
+- 📚 Currently revisiting Data Structures & Algorithms  
+- ☁️ Curious about cloud, servers, and automation  
+- 🌱 Constantly learning and trying out new technologies  
+- 🤝 Enjoy exploring open source and sharing what I learn  
+
+---
+
+### 📫 Connect with me
+
+- 🐧 Strong believer in Linux and FOSS  
+- 📖 Love diving deep into how tech works under the hood  
+- 💬 Always happy to discuss and help with tech
+
 ---
 
 ### 💻 Tech Stack:
