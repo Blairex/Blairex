@@ -1,4 +1,4 @@
-## Hi, I'm Blairex <img src="https://media.tenor.com/XlMe6e3sSY0AAAAj/pokemon-pokemon-gen5.gif" height="30px">
+## Hi, I'm Blairex <img src="https://media.tenor.com/XlMe6e3sSY0AAAAj/pokemon-pokemon-gen5.gif" height="50px">
 
 Welcome to my profile! 🌍  
 Here you’ll find my journey as a tech enthusiast who loves exploring Linux, coding, and everything in between.  
