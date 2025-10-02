@@ -14,7 +14,7 @@ Here, you’ll find my journey in tech, my experiments, and the small projects I
 - 🌱 Constantly learning and trying out new technologies  
 - 🤝 Enjoy exploring open source and sharing what I learn  
 
-[![Blairex's GitHub Summary](https://profile-summary-for-github.com/user/Blairex/badge)](https://profile-summary-for-github.com/user/Blairex)
+![Blairex's GitHub Summary](https://profile-summary-for-github.com/user/Blairex/badge)
 
 #### Connect with me
 
