@@ -15,7 +15,7 @@ Here, you’ll find my journey in tech, my experiments, and the small projects I
 - 🤝 Enjoy exploring open source and sharing what I learn  
 
 
-<h4><img src="https://media.tenor.com/6OjWREBRRf0AAAAj/comment.gif" width="30" /> Connect with me</h4>
+<h4><img src="https://media.tenor.com/6OjWREBRRf0AAAAj/comment.gif" width="60" /> Connect with me</h4>
 
 - 🐧 Strong believer in Linux and FOSS  
 - 📖 Love diving deep into how tech works under the hood  
