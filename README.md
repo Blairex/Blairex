@@ -15,11 +15,13 @@ Here, you’ll find my journey in tech, my experiments, and the small projects I
 - 🤝 Enjoy exploring open source and sharing what I learn  
 
 
-#### 📫 Connect with me
+#### Connect with me
+
+I’m always happy to chat about tech, Linux, open source, or programming in general. Feel free to reach out, share ideas, or just say hi!  
 
 - 🐧 Strong believer in Linux and FOSS  
-- 📖 Love diving deep into how tech works under the hood  
-- 💬 Always happy to discuss and help with tech
+- 📖 Love exploring how technology works under the hood  
+- 💬 Open to discussions, collaboration, and helping others
 
 
 
