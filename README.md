@@ -22,7 +22,7 @@ I’m always happy to chat about tech, Linux, open source, or programming in gen
 - 🐧 Strong believer in Linux and FOSS  
 - 📖 Love exploring how technology works under the hood  
 - 💬 Open to discussions, collaboration, and helping others
-- 💻 **Check out my interactive portfolio:** [blairex-portfolio](https://blairex-portfolio.vercel.app/) – navigate through the terminal interface to discover my skills and projects.
+- 💻 **Check out my personal site:** [blairex](https://blairex-portfolio.vercel.app/) – navigate through the terminal interface to discover my skills and projects.
 - 📧 Feel free to reach out via email: [jerryblair0927@gmail.com](mailto:jerryblair0927@gmail.com)
 
 
