@@ -39,3 +39,24 @@ I’m always happy to chat about tech, Linux, open source, or programming in gen
 ---
 [![](https://visitcount.itsvg.in/api?id=Blairex&icon=2&color=0)](https://visitcount.itsvg.in)
 
+
+## ☁️ My Google Cloud Skill Badges
+
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191595">
+    <img src="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191595" alt="Badge 1" width="120" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191979">
+    <img src="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191979" alt="Badge 2" width="120" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19192590">
+    <img src="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19192590" alt="Badge 3" width="120" />
+  </a>
+</p>
+
+### 📜 Badge Titles & Links
+
+- [Badge 1](https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191595)  
+- [Badge 2](https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191979)  
+- [Badge 3](https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19192590)
+
