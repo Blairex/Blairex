@@ -39,17 +39,3 @@ I’m always happy to chat about tech, Linux, open source, or programming in gen
 ---
 [![](https://visitcount.itsvg.in/api?id=Blairex&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-## ☁️ My Google Cloud Skill Badges
-
-<p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191595">
-    <img src="badge1.png" alt="Get Started with Cloud Storage" width="120" />
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191979">
-    <img src="badge2.png" alt="Get Started with Looker" width="120" />
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19192590">
-    <img src="badge3.png" alt="Get Started with Dataplex" width="120" />
-  </a>
-</p>
