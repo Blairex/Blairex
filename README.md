@@ -44,19 +44,12 @@ I’m always happy to chat about tech, Linux, open source, or programming in gen
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191595">
-    <img src="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191595" alt="Badge 1" width="120" />
+    <img src="badge1.png" alt="Get Started with Cloud Storage" width="120" />
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191979">
-    <img src="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191979" alt="Badge 2" width="120" />
+    <img src="badge2.png" alt="Get Started with Looker" width="120" />
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19192590">
-    <img src="https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19192590" alt="Badge 3" width="120" />
+    <img src="badge3.png" alt="Get Started with Dataplex" width="120" />
   </a>
 </p>
-
-### 📜 Badge Titles & Links
-
-- [Badge 1](https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191595)  
-- [Badge 2](https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19191979)  
-- [Badge 3](https://www.cloudskillsboost.google/public_profiles/331788b4-a3e1-421d-bb9e-96bb6eaca34f/badges/19192590)
-
