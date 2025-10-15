@@ -39,5 +39,3 @@ I’m always happy to chat about tech, Linux, open source, or programming in gen
 ---
 [![](https://visitcount.itsvg.in/api?id=Blairex&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b0b573af-941d-4961-91d6-c67ff37baa93" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
