@@ -1,6 +1,6 @@
 ## Hi, I'm Blairex 
 
-<img src="https://media.tenor.com/XlMe6e3sSY0AAAAj/pokemon-pokemon-gen5.gif" height="80px">   Welcome to my profile! I'm a self-taught developer and tech enthusiast from India, studying Computer Applications (BCA). I’m passionate about Linux, coding, and exploring new tools that make life easier or more interesting. I enjoy experimenting with ideas, solving problems, and constantly learning something new every day.
+<img src="https://media.tenor.com/XlMe6e3sSY0AAAAj/pokemon-pokemon-gen5.gif" height="80px">     Welcome to my profile! I'm a self-taught developer and tech enthusiast from India, studying Computer Applications (BCA). I’m passionate about Linux, coding, and exploring new tools that make life easier or more interesting. I enjoy experimenting with ideas, solving problems, and constantly learning something new every day.
   
 Here, you’ll find my journey in tech, my experiments, and the small projects I build as I explore different areas of programming. I love sharing what I learn along the way and hope my work can be useful or inspiring to others who are curious about technology.
 
