@@ -8,21 +8,20 @@ Here, you’ll find my journey in tech, my experiments, and the small projects I
 
 🐧 **A little about me...**
 
-- 💻 Passionate about Linux and system customization  
-- 📚 Currently revisiting Data Structures & Algorithms  
-- ☁️ Curious about cloud, servers, and automation  
-- 🌱 Constantly learning and trying out new technologies  
-- 🤝 Enjoy exploring open source and sharing what I learn  
+- Passionate about Linux and system customization  
+- Exploring and building toward intelligent systems & AI-driven applications  
+- Constantly learning and trying out new technologies  
+- Enjoy exploring open source and sharing what I learn  
 
 
 #### Connect with me
 
 I’m always happy to chat about tech, Linux, open source, or programming in general. Feel free to reach out, share ideas, or just say hi!  
 
-- 🐧 Strong believer in Linux and FOSS  
-- 📖 Love exploring how technology works under the hood  
-- 💬 Open to discussions, collaboration, and helping others
-- 💻 **Check out my personal site:** [blairex](https://blairex-portfolio.vercel.app/) – navigate through the terminal interface to discover my skills and projects.
+- Strong believer in Linux and FOSS  
+- Love exploring how technology works under the hood  
+- Open to discussions, collaboration, and helping others
+- **Check out my personal site:** [blairex](https://blairex-portfolio.vercel.app/) – navigate through the terminal interface to discover my skills and projects.
 - 📧 Feel free to reach out via email: [jerryblair0927@gmail.com](mailto:jerryblair0927@gmail.com)
 
 
