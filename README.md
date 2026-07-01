@@ -37,5 +37,4 @@ I’m always happy to chat about tech, Linux, open source, or programming in gen
 ![](https://github-contributor-stats.vercel.app/api?username=Blairex&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Blairex&icon=2&color=0)](https://visitcount.itsvg.in)
 
