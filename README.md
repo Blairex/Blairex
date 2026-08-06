@@ -1,4 +1,4 @@
-## Hi, I'm Blairex 
+## Hi, I'm Jerry Blair
 
 <img src="https://media.tenor.com/XlMe6e3sSY0AAAAj/pokemon-pokemon-gen5.gif" height="80px">     Welcome to my profile! I'm an aspiring AI Engineer from India with a passion for building intelligent applications using Python and AI technologies. I'm also a Linux enthusiast who enjoys coding, exploring open source, and continuously learning.
 
