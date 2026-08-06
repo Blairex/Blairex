@@ -1,26 +1,26 @@
 ## Hi, I'm Blairex 
 
-<img src="https://media.tenor.com/XlMe6e3sSY0AAAAj/pokemon-pokemon-gen5.gif" height="80px">     Welcome to my profile! I'm a self-taught developer and tech enthusiast from India, studying Computer Applications (BCA). I’m passionate about Linux, coding, and exploring new tools that make life easier or more interesting. I enjoy experimenting with ideas, solving problems, and constantly learning something new every day.
-  
-Here, you’ll find my journey in tech, my experiments, and the small projects I build as I explore different areas of programming. I love sharing what I learn along the way and hope my work can be useful or inspiring to others who are curious about technology.
+<img src="https://media.tenor.com/XlMe6e3sSY0AAAAj/pokemon-pokemon-gen5.gif" height="80px">     Welcome to my profile! I'm an aspiring AI Engineer from India with a passion for building intelligent applications using Python and AI technologies. I'm also a Linux enthusiast who enjoys coding, exploring open source, and continuously learning.
+
+This GitHub is where I share my projects, document my learning journey, experiment with new ideas, and build applications that solve real-world problems.
 
 ![Coding GIF](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
 🐧 **A little about me...**
 
-- Passionate about Linux and system customization  
-- Exploring and building toward intelligent systems & AI-driven applications  
-- Constantly learning and trying out new technologies  
-- Enjoy exploring open source and sharing what I learn  
+- Linux enthusiast who enjoys system customization and open source
+- Passionate about Artificial Intelligence and building intelligent applications
+- Constantly learning and experimenting with new technologies
+- Curious about how AI can solve real-world problems
 
 
 #### Connect with me
 
-I’m always happy to chat about tech, Linux, open source, or programming in general. Feel free to reach out, share ideas, or just say hi!  
+I’m always happy to chat about tech, Linux, open source, AI, or programming in general. Feel free to reach out, share ideas, or just say hi!  
 
-- Strong believer in Linux and FOSS  
-- Love exploring how technology works under the hood  
-- Open to discussions, collaboration, and helping others
+- Strong believer in Linux and FOSS    
+- Open to discussions, collaboration, and knowledge sharing
+- Always happy to connect with fellow developers and AI enthusiasts
 - 📧 Feel free to reach out via email: [jerryblair0927@gmail.com](mailto:jerryblair0927@gmail.com)
 
 
